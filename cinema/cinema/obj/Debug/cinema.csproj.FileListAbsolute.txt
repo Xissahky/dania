@@ -1,0 +1,7 @@
+C:\Users\zomba\Desktop\cinema\cinema\bin\Debug\cinema.exe.config
+C:\Users\zomba\Desktop\cinema\cinema\bin\Debug\cinema.exe
+C:\Users\zomba\Desktop\cinema\cinema\bin\Debug\cinema.pdb
+C:\Users\zomba\Desktop\cinema\cinema\obj\Debug\cinema.csproj.AssemblyReference.cache
+C:\Users\zomba\Desktop\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\Users\zomba\Desktop\cinema\cinema\obj\Debug\cinema.exe
+C:\Users\zomba\Desktop\cinema\cinema\obj\Debug\cinema.pdb
